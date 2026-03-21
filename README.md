@@ -12,8 +12,7 @@ Email Me 👉 ✉️ **workpranav0210@gmail.com** For Collaboration/Project or A
 
  LeetCode- https://leetcode.com/u/pranavgoyal0210/
 
-
- ## 🌐 Connect with Me:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-goyal-a99213358/)
 
 <div align="center">
